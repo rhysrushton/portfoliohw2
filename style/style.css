@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Lobster';
+    font-style: italic;
+    font-weight: bold;
+    color: crimson;
+    text-align: left;
+}
+
+
+
+#photome{
+    border-radius: 0 50% 50% 50%;
+}
+
+
+
+
+    
+
+
+.navbar-brand, .nav-link, .navbar-text{
+    font-family: 'Lobster';
+    
+}
+
+p{
+    font-family: 'Lobster';
+    color:crimson;
+    text-align: center;
+
+}
+
+
+
+@media (min-width: 992px) { 
+    
+    h1{
+        text-align: center;
+    }
+
+    #photome{
+        margin-left: 250px ;
+    }
+
+    p{
+        margin: 50px;
+    }
+
+ }
+
+
+@media (min-width: 1200px) { 
+    #photome{
+        margin-left: 300px;
+    }
+
+
+ }
+
+
+
+
+
+
+
+
