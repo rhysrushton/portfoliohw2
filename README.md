@@ -23,3 +23,5 @@ CSS Bootstrap
 ![website in use](gifs\site.gif)
 
 ## Link to the Deployed Site
+https://rhysrushton.github.io/portfoliohw2/
+
